@@ -102,4 +102,5 @@ if __name__ == "__main__":
    manager.list_tasks()
    manager.mark_task_completed(1)
    manager.list_tasks()
-
+   
+   print(“Finished”)
